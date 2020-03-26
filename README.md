@@ -4,7 +4,7 @@ This is a command line application that uses `node`, `express`, and `mysql` to a
 
 ## Clone the project
 
-Copy the above url. 
+Copy the above url. Open your terminal, and run:
 
 ## Starting the app locally
 
