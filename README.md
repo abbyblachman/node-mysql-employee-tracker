@@ -10,6 +10,8 @@ Copy the above url. Open your terminal, and run:
 git clone <url>
 ```
 
+Now, change into the project directory.
+
 ## Starting the app locally
 
 Start by installing front and backend dependencies. While in this directory, run the following command:
