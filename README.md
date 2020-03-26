@@ -1,6 +1,6 @@
 ### Node MySql Employee Database 
 
-This is a command line application that uses `node`, `express`, and `MySQL` to allow a user to see and update a Mysql database. 
+This is a command line application that uses `node`, `express`, and `MySQL` to allow a user to see and update a MySQL database. 
 
 ## Clone the project
 
