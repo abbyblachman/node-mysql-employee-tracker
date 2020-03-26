@@ -6,6 +6,10 @@ This is a command line application that uses `node`, `express`, and `mysql` to a
 
 Copy the above url. Open your terminal, and run:
 
+```
+git clone <url>
+```
+
 ## Starting the app locally
 
 Start by installing front and backend dependencies. While in this directory, run the following command:
