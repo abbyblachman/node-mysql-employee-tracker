@@ -2,6 +2,8 @@
 
 This is a command line application that uses `node`, `express`, and `mysql` to allow a user to see and update a mysql database. 
 
+## Clone the project
+
 ## Starting the app locally
 
 Start by installing front and backend dependencies. While in this directory, run the following command:
